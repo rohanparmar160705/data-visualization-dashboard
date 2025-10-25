@@ -1,0 +1,21 @@
+date,product,amount,region,salesperson,quantity,category
+2024-01-01,Laptop,1200,North,John Smith,2,Electronics
+2024-01-02,Phone,800,South,Jane Doe,3,Electronics
+2024-01-03,Tablet,500,East,Bob Johnson,1,Electronics
+2024-01-04,Monitor,350,West,Alice Brown,4,Electronics
+2024-01-05,Keyboard,75,North,John Smith,10,Accessories
+2024-01-06,Mouse,45,South,Jane Doe,15,Accessories
+2024-01-07,Laptop,1200,East,Bob Johnson,1,Electronics
+2024-01-08,Phone,800,West,Alice Brown,2,Electronics
+2024-01-09,Tablet,500,North,John Smith,3,Electronics
+2024-01-10,Monitor,350,South,Jane Doe,2,Electronics
+2024-01-11,Keyboard,75,East,Bob Johnson,8,Accessories
+2024-01-12,Mouse,45,West,Alice Brown,12,Accessories
+2024-01-13,Laptop,1200,North,John Smith,1,Electronics
+2024-01-14,Phone,800,South,Jane Doe,4,Electronics
+2024-01-15,Tablet,500,East,Bob Johnson,2,Electronics
+2024-01-16,Monitor,350,West,Alice Brown,3,Electronics
+2024-01-17,Keyboard,75,North,John Smith,6,Accessories
+2024-01-18,Mouse,45,South,Jane Doe,10,Accessories
+2024-01-19,Laptop,1200,East,Bob Johnson,2,Electronics
+2024-01-20,Phone,800,West,Alice Brown,1,Electronics
